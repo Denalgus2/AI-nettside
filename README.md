@@ -1,0 +1,1 @@
+Veldig simpel nettside i form av en nyhetsartikkel om kunstig intelligens i skolehverdagen. En del av et litt større prosjekt. Alt av bilder og tekst er generert av AI, html og CSS er skrevet for hånd. 
